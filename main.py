@@ -1,7 +1,12 @@
-# --Prerequisites before run the code. 
+# If you are running this code on GitHub codespaces then run these commands:  
+    # --Prerequisites before run the code. 
     # sudo apt-get update
     # sudo apt-get install -y xvfb
     # pip install pandas playwright tqdm pyvirtualdisplay 
+    # playwright install 
+    # playwright install-deps
+# Otherwise run these: 
+    # pip install pandas playwright tqdm
     # playwright install 
     # playwright install-deps
 
