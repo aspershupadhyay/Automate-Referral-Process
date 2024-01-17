@@ -1,7 +1,7 @@
 ![image](https://github.com/aspershupadhyay/Gamma-AI-Free-Credits/assets/106134412/03ef1e51-7ccb-4c02-a311-1345bb87de9d)
 
-Automate Gamma AI Referral (To receive 200 gamma AI credits free on each referral) 
 ## Goal of this Project
+Automate Gamma AI Referral (To receive 200 gamma AI credits free on each referral) 
 
 ### **Streamlined Workflow**
 Automates account creation for referrals using temporary email addresses, saving manual effort.Eliminates repetitive tasks like signing up, verifying emails, and completing referral steps.
